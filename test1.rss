@@ -70,7 +70,7 @@ Email the show at mailbag@boontavista.com! Call in and leave us a question or a 
 Twitter: twitter.com/boontavista
 Website: boontavista.com
 Twitch: twitch.tv/boontavista</description>
-      <enclosure type="audio/mpeg" url="https://example.com/subfolder/Podcast/Boontav/Ep2.mp3" length="79120288"/>
+      <enclosure type="audio/mpeg" url="https://www.dropbox.com/scl/fi/yvlt96wjhcpsrtqvkzk7f/BoVi.21.08.29-BE-Not-Gun-Sommelier__BVSCE214-Bonus.opus?rlkey=n2wexmz48gonbdrvhm6njzv4q&st=bl8ber98&dl=0" length="79120288"/>
       <itunes:image href="https://i1.sndcdn.com/artworks-gj5SJPeNiW5gRkst-lBnttw-t3000x3000.jpg"/>
 </item>
 <item>
@@ -100,7 +100,7 @@ Email the show at mailbag@boontavista.com! Call in and leave us a question or a 
 Twitter: twitter.com/boontavista
 Website: boontavista.com
 Twitch: twitch.tv/boontavista</description>
-      <enclosure type="audio/mpeg" url="ftp://192.168.1.148/subfolder/Podcast/Boontav/Ep1.mp3" length="79120288"/>
+      <enclosure type="audio/mpeg" url="https://www.dropbox.com/scl/fi/yvlt96wjhcpsrtqvkzk7f/BoVi.21.08.29-BE-Not-Gun-Sommelier__BVSCE214-Bonus.opus?rlkey=n2wexmz48gonbdrvhm6njzv4q&st=bl8ber98&dl=0" length="79120288"/>
       <itunes:image href="https://i1.sndcdn.com/avatars-Av1MpKufKjMzkL24-8SlW5g-original.jpg"/>
     </item>
   </channel>
