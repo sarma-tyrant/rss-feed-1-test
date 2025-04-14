@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:307723090/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:307723090/sounds.rss?before=334563884" rel="next" type="application/rss+xml"/>
+        <title>Boonta Vista</title>
+        <link>https://www.patreon.com/BoontaVista</link>
+        <pubDate>Sun, 14 Jul 2024 03:25:43 +0000</pubDate>
+        <lastBuildDate>Sun, 14 Jul 2024 03:25:43 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>The least consequential news from around the world from the least informed minds in Australia. Andrew, Theo, Lucy and Ben bring you the week's stories that conveniently fit into one of their countless, concerningly specific segments.</description>
+        <itunes:subtitle>The least consequential news from around the worl…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Boonta Vista</itunes:name>
+          <itunes:email>mailbag@boontavista.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Boonta Vista</itunes:author>
+        <itunes:explicit>true</itunes:explicit>
+		<itunes:block>Yes</itunes:block>
+        <itunes:image href="https://i1.sndcdn.com/avatars-Av1MpKufKjMzkL24-8SlW5g-original.jpg"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-Av1MpKufKjMzkL24-8SlW5g-original.jpg</url>
+          <title>Boonta Vista</title>
+          <link>https://www.patreon.com/BoontaVista</link>
+        </image>
+        <itunes:category text="Comedy"/>
+<item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1871237883</guid>
+      <title>EPISODE 354: The World’s First Free-Use Comedian (with Tom Walker)</title>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost/subfolder/Podcast/Boontav/Ep1.mp3</link>
+      <itunes:duration>01:13:39</itunes:duration>
+      <itunes:author>Boonta Vista</itunes:author>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:summary>Our dear friend Tom Walker joins us to talk about: The high stakes world of competitive laser tag, the power of one voicemail recording to change the world, a very professional watch heist, and the Clipping Report.
+
+***
+
+Tom's Sydney show: 
+https://standupsydney.com/event/tom-walker-my-treasures-my-beautiful-treasures/
+Tom's Melbourne show:  https://www.comedyrepublic.com.au/event/38:355/38:1066/
+Tom's Brisbane show:  https://goodchatcomedy.com/index.php/events/tom-walker-my-treasures-my-beautiful-treasures/
+And a later Tom's Brisbane show: https://goodchatcomedy.com/index.php/events/tom-walker-my-treasures-my-beautiful-treasures-830pm-session/
+***
+Support our show and get exclusive bonus episodes by subscribing on Patreon: www.patreon.com/BoontaVista
+***
+Email the show at mailbag@boontavista.com! Call in and leave us a question or a message on 1800-317-515 to be answered on the show!
+***
+Twitter: twitter.com/boontavista
+Website: boontavista.com
+Twitch: twitch.tv/boontavista</itunes:summary>
+      <itunes:subtitle>Our dear friend Tom Walker joins us to talk about…</itunes:subtitle>
+      <description>Our dear friend Tom Walker joins us to talk about: The high stakes world of competitive laser tag, the power of one voicemail recording to change the world, a very professional watch heist, and the Clipping Report.
+
+***
+
+Tom's Sydney show: 
+https://standupsydney.com/event/tom-walker-my-treasures-my-beautiful-treasures/
+Tom's Melbourne show:  https://www.comedyrepublic.com.au/event/38:355/38:1066/
+Tom's Brisbane show:  https://goodchatcomedy.com/index.php/events/tom-walker-my-treasures-my-beautiful-treasures/
+And a later Tom's Brisbane show: https://goodchatcomedy.com/index.php/events/tom-walker-my-treasures-my-beautiful-treasures-830pm-session/
+***
+Support our show and get exclusive bonus episodes by subscribing on Patreon: www.patreon.com/BoontaVista
+***
+Email the show at mailbag@boontavista.com! Call in and leave us a question or a message on 1800-317-515 to be answered on the show!
+***
+Twitter: twitter.com/boontavista
+Website: boontavista.com
+Twitch: twitch.tv/boontavista</description>
+      <enclosure type="audio/mpeg" url="https://example.com/subfolder/Podcast/Boontav/Ep2.mp3" length="79120288"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-gj5SJPeNiW5gRkst-lBnttw-t3000x3000.jpg"/>
+</item>
+<item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1864939824</guid>
+      <title>EPISODE 353: Thelma &amp; Louising In Separate Cars</title>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost/subfolder/Podcast/Boontav/Ep1.mp3</link>
+      <itunes:duration>01:01:08</itunes:duration>
+      <itunes:author>Boonta Vista</itunes:author>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:summary>Lucy, Theo, and Ben bring you: A beautiful relationship betwixt woman and fish, one extremely disgruntled Dutch man, a follow-up on Jimmy the Hairdresser, and the RIPing Report.
+***
+Support our show and get exclusive bonus episodes by subscribing on Patreon: www.patreon.com/BoontaVista
+***
+Email the show at mailbag@boontavista.com! Call in and leave us a question or a message on 1800-317-515 to be answered on the show!
+***
+Twitter: twitter.com/boontavista
+Website: boontavista.com
+Twitch: twitch.tv/boontavista</itunes:summary>
+      <itunes:subtitle>Lucy, Theo, and Ben bring you: A beautiful relati…</itunes:subtitle>
+      <description>Lucy, Theo, and Ben bring you: A beautiful relationship betwixt woman and fish, one extremely disgruntled Dutch man, a follow-up on Jimmy the Hairdresser, and the RIPing Report.
+***
+Support our show and get exclusive bonus episodes by subscribing on Patreon: www.patreon.com/BoontaVista
+***
+Email the show at mailbag@boontavista.com! Call in and leave us a question or a message on 1800-317-515 to be answered on the show!
+***
+Twitter: twitter.com/boontavista
+Website: boontavista.com
+Twitch: twitch.tv/boontavista</description>
+      <enclosure type="audio/mpeg" url="ftp://192.168.1.148/subfolder/Podcast/Boontav/Ep1.mp3" length="79120288"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-Av1MpKufKjMzkL24-8SlW5g-original.jpg"/>
+    </item>
+  </channel>
+</rss>
