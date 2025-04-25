@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:307723090/sounds.rss" rel="self" type="application/rss+xml" />
-    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:307723090/sounds.rss?before=334563884" rel="next" type="application/rss+xml" />
-    <title>Boonta Vista</title>
-    <link>https://www.patreon.com/BoontaVista</link>
+    <title>Boonta Vista Test3</title>
+    <link>https://www.example.com</link>
     <pubDate>Sun, 14 Jul 2024 03:25:43 +0000</pubDate>
     <lastBuildDate>Sun, 14 Jul 2024 03:25:43 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <webMaster>https://www.example.com</webMaster>
     <description>The least consequential news from around the world from the least informed minds in Australia. Andrew, Theo, Lucy and Ben bring you the week's stories that conveniently fit into one of their countless, concerningly specific segments. 
 
 Keep up with the latest news from Nature Corner, Paging Dr. Lucy, Planely Speaking, Omens and Portents, The Hole Report and many, many more.
